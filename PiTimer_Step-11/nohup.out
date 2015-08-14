@@ -1,0 +1,92 @@
+[?1049h[1;24r(B[m[4l[?7h[H[2J      PiTimer       
+     2015-06-23     
+    Version 1.00    
+  (C) Jason Birch   
+[H[2J2015-07-02  20:13:33
+1>Add     4>Schedule
+2>Delete  5>Set Time
+3>Relays  6>Shutdown
+[H[2J2015-07-02  20:13:33
+1>Add     4>Schedule
+2>Delete  5>Set Time
+3>Relays  6>Shutdown
+[H[2J2015-07-02  20:13:34
+1>Add     4>Schedule
+2>Delete  5>Set Time
+3>Relays  6>Shutdown
+[H[2J2015-07-02  20:13:34
+1>Add     4>Schedule
+2>Delete  5>Set Time
+3>Relays  6>Shutdown
+[H[2J2015-07-02  20:13:35
+1>Add     4>Schedule
+2>Delete  5>Set Time
+3>Relays  6>Shutdown
+[H[2J2015-07-02  20:13:35
+1>Add     4>Schedule
+2>Delete  5>Set Time
+3>Relays  6>Shutdown
+[24;1H[?1049l[?1l>Traceback (most recent call last):
+  File "PiTimer.py", line 224, in <module>
+    curses.endwin()
+_curses.error: endwin() returned ERR
+/home/pi/Desktop/PiTimer/PiTimer_Step-11/Keypad.py:51: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  RPi.GPIO.setup(self.ThisGpioPins[Count], RPi.GPIO.OUT, initial=1)
+/home/pi/Desktop/PiTimer/PiTimer_Step-11/LCD.py:54: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  RPi.GPIO.setup(self.ThisGpioPins[Count], RPi.GPIO.OUT, initial=0)
+[?1049h[1;24r(B[m[4l[?7h[H[2J      PiTimer       
+     2015-06-23     
+    Version 1.00    
+  (C) Jason Birch   
+/home/pi/Desktop/PiTimer/PiTimer_Step-11/Relays.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  RPi.GPIO.setup(RelayPin, RPi.GPIO.OUT, initial=RelayState)
+[H[2J2015-07-02  20:13:50
+1>Add     4>Schedule
+2>Delete  5>Set Time
+3>Relays  6>Shutdown
+[H[2J2015-07-02  20:13:50
+1>Add     4>Schedule
+2>Delete  5>Set Time
+3>Relays  6>Shutdown
+[H[2J2015-07-02  20:13:51
+1>Add     4>Schedule
+2>Delete  5>Set Time
+3>Relays  6>Shutdown
+[H[2J2015-07-02  20:13:51
+1>Add     4>Schedule
+2>Delete  5>Set Time
+3>Relays  6>Shutdown
+[24;1H[?1049l[?1l>Traceback (most recent call last):
+  File "PiTimer.py", line 224, in <module>
+    curses.endwin()
+_curses.error: endwin() returned ERR
+/home/pi/Desktop/PiTimer/PiTimer_Step-11/Keypad.py:51: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  RPi.GPIO.setup(self.ThisGpioPins[Count], RPi.GPIO.OUT, initial=1)
+/home/pi/Desktop/PiTimer/PiTimer_Step-11/LCD.py:54: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  RPi.GPIO.setup(self.ThisGpioPins[Count], RPi.GPIO.OUT, initial=0)
+[?1049h[1;24r(B[m[4l[?7h[H[2J      PiTimer       
+     2015-06-23     
+    Version 1.00    
+  (C) Jason Birch   
+/home/pi/Desktop/PiTimer/PiTimer_Step-11/Relays.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  RPi.GPIO.setup(RelayPin, RPi.GPIO.OUT, initial=RelayState)
+[H[2J2015-07-02  20:14:44
+1>Add     4>Schedule
+2>Delete  5>Set Time
+3>Relays  6>Shutdown
+[H[2J2015-07-02  20:14:44
+1>Add     4>Schedule
+2>Delete  5>Set Time
+3>Relays  6>Shutdown
+[H[2J2015-07-02  20:14:45
+1>Add     4>Schedule
+2>Delete  5>Set Time
+3>Relays  6>Shutdown
+[H[2J2015-07-02  20:14:45
+1>Add     4>Schedule
+2>Delete  5>Set Time
+3>Relays  6>Shutdown
+[24;1H[?1049l[?1l>Traceback (most recent call last):
+  File "PiTimer.py", line 224, in <module>
+    curses.endwin()
+_curses.error: endwin() returned ERR

@@ -1,0 +1,73 @@
+Product: Raspberry Pi - RPiRTC
+Copyright: (C) 2013 Jason Birch
+Release: V1.00 2013-12-06
+Serial Number: 0000000000
+Licensed To: FREEWARE
+Licensed Date: 2013-12-06
+Reference: http://www.newsdownload.co.uk/
+
+
+FREEWARE License Agreement
+==========================
+This FREEWARE license applies to the APPLICATION and PACKAGE, including all 
+components and any part of a component, distributed with the APPLICATION and
+PACKAGE.
+
+End-User License Agreement ("EULA")
+-----------------------------------
+This is a legal agreement between the holder of or user of this APPLICATION or
+PACKAGE, including any part of any component of the APPLICATION or PACKAGE, and
+the copyright holder of the APPLICATION and PACKAGE. This includes, without
+limitation, any software, data, media, document, licence; which may be printed,
+electronic, implied or otherwise; whether they are distributed within the
+original package, added, modified or otherwise at a later date; by electronic, 
+manual or other process.
+
+By installing, copying, possessing, or using the APPLICATION or PACKAGE, you
+agree to be bound by the terms of this EULA.
+
+FREEWARE
+--------
+The application may used without charge.
+
+Distribution of the APPLICATION and PACKAGE
+-------------------------------------------
+You may make copies of the APPLICATION and PACKAGE as you wish. The APPLICATION
+and PACKAGE must remain a single entity at all times.
+
+The APPLICATION and PACKAGE must remain free of charge at all times. It must
+not be used in any part of any commercial package, or distributed in association
+to any commercial package.
+
+RESTRICTIONS
+------------
+The APPLICATION and PACKAGE, or any part of which may not be modified, 
+interfered with, reconstructed, de-compiled, disassembled, reverse engineered,
+removed, or deleted.
+
+The APPLICATION or PACKAGE must not be rented, leased or sold.
+
+The APPLICATION or PACKAGE must not be used to perform any unauthorized 
+transfer of information, any illegal purpose, or in any way which could cause
+offence, or be considered morally or ethically offensive.
+
+DISCLAIMER of WARRANTY
+----------------------
+THERE IS NO WARRANTY FOR THE APPLICATION OR PACKAGE, TO THE EXTENT PERMITTED BY
+APPLICABLE LAW. THE APPLICATION AND PACKAGE IS PROVIDED "AS IS" WITHOUT 
+WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED
+TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS
+WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL
+NECESSARY SERVICING, REPAIR OR CORRECTION.
+
+LIMITATION of LIABILITY
+-----------------------
+IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY
+COPYRIGHT HOLDER, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL,
+INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE
+THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED
+INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE
+PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY
+HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+

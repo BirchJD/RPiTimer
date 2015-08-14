@@ -1,0 +1,63 @@
+PiTimer - Step 1 - Programatically setting the system time.
+   Read the system time.
+   Set the system time.
+
+PiTimer - Step 2 - Python clesses.
+   Convert the existing code into a class, as a very simple example of how classes are used.
+
+PiTimer - Step 3 - Schedule table.
+   Set a schedule on off time for a specific relay number.
+   Display a list of the current on off times for all relays, in a readable tabulated form.
+
+PiTimer - Step 4 - Schedule functions.
+   Sort schedule into acending date/time order.
+   Check for schedule triggers.
+   Set next schedule data/time or remove one off schedules when expired.
+   Delete a specific schedule.
+
+PiTimer - Step 5 - Relay functions.
+   Add a main loop.
+   Check for events occuring every second.
+   Toggle appropreate relay when an event occurs.
+   Displays the current status of the relays.
+
+PiTimer - Step 6 - User interactions.
+   Add user interactions.
+      Add relay schedule.
+      Delete relay schedule.
+      Set system time.
+      Display schedule.
+      Display relay status.
+      Shutdown system.
+
+PiTimer - Step 7 - Save/Load application state.
+   Application splash screen.
+   Save schedule items when added, deleted, triggered or application shutdown. Maximum frequency of every minute.
+   Load schedule items when application starts.
+
+PiTimer - Step 8 - Controlling physical relays.
+   ConfigureIO for relays.
+   Switch on or off relays.
+   Sequence relay demo.
+
+PiTimer - Step 9 - Maintaining the system time.
+   Use the RPi Clock Driver from http://www.newsdownload.co.uk/pages/RPiRTC.html
+   Compile a version for new Raspberry Pi boards.
+   Read the clock module time.
+   Set the clock module time.
+
+PiTimer - Step 10 - Numeric GPIO keypad.
+   Numeric keypad hardware.
+   Class initializer with GPIO pins.
+   Scan keypad.
+   Get keypad keycode.
+
+PiTimer - Step 11 - 20 x 4 LCD display.
+   20 x 4 LCD Display hardware.
+   Class initializer with GPIO pins.
+   Clear LCD display.
+   Write line to LCD display.
+
+PiTimer - Step 12 - 
+   Web browser interface for use from any smart phone.
+
